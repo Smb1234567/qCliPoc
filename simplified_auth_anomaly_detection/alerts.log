@@ -1,0 +1,52 @@
+2026-01-23 14:43:51,827 - INFO - Alert triggered: MEDIUM SEVERITY: Login at hour 20 differs from typical hour 12.1 by 7.866666666666667 hours
+2026-01-23 14:45:16,425 - INFO - Alert triggered: MEDIUM SEVERITY: Login at hour 20 differs from typical hour 12.1 by 7.866666666666667 hours
+2026-01-23 14:45:16,428 - INFO - Alert triggered: MEDIUM SEVERITY: Login at hour 4 differs from typical hour 12.1 by 8.133333333333333 hours
+2026-01-23 14:45:16,429 - INFO - Alert triggered: MEDIUM SEVERITY: Login at hour 20 differs from typical hour 12.1 by 7.866666666666667 hours
+2026-01-23 14:45:16,430 - INFO - Alert triggered: MEDIUM SEVERITY: Login at hour 20 differs from typical hour 12.1 by 7.866666666666667 hours
+2026-01-23 14:45:16,432 - INFO - Alert triggered: MEDIUM SEVERITY: Login at hour 4 differs from typical hour 12.1 by 8.133333333333333 hours
+2026-01-23 14:45:16,433 - INFO - Alert triggered: MEDIUM SEVERITY: Login at hour 20 differs from typical hour 12.1 by 7.866666666666667 hours
+2026-01-23 14:45:16,434 - INFO - Alert triggered: MEDIUM SEVERITY: Login at hour 2 differs from typical hour 11.7 by 9.666666666666666 hours
+2026-01-23 14:45:16,436 - INFO - Alert triggered: MEDIUM SEVERITY: Login at hour 22 differs from typical hour 11.7 by 10.333333333333334 hours
+2026-01-23 14:45:16,437 - INFO - Alert triggered: MEDIUM SEVERITY: Login at hour 0 differs from typical hour 11.7 by 11.666666666666666 hours
+2026-01-23 14:45:16,439 - INFO - Alert triggered: MEDIUM SEVERITY: Login at hour 22 differs from typical hour 11.7 by 10.333333333333334 hours
+2026-01-23 14:45:16,440 - INFO - Alert triggered: MEDIUM SEVERITY: Login at hour 0 differs from typical hour 11.7 by 11.666666666666666 hours
+2026-01-23 14:45:16,442 - INFO - Alert triggered: MEDIUM SEVERITY: Login at hour 20 differs from typical hour 11.7 by 8.333333333333334 hours
+2026-01-23 14:45:16,443 - INFO - Alert triggered: MEDIUM SEVERITY: Login at hour 4 differs from typical hour 11.7 by 7.666666666666666 hours
+2026-01-23 14:45:16,446 - INFO - Alert triggered: MEDIUM SEVERITY: Login at hour 22 differs from typical hour 11.7 by 10.333333333333334 hours
+2026-01-23 14:45:16,448 - INFO - Alert triggered: MEDIUM SEVERITY: Login at hour 22 differs from typical hour 10.4 by 11.583333333333334 hours
+2026-01-23 14:45:16,449 - INFO - Alert triggered: MEDIUM SEVERITY: Login at hour 0 differs from typical hour 10.4 by 10.416666666666666 hours
+2026-01-23 14:45:16,450 - INFO - Alert triggered: MEDIUM SEVERITY: Login at hour 18 differs from typical hour 10.4 by 7.583333333333334 hours
+2026-01-23 14:45:16,452 - INFO - Alert triggered: MEDIUM SEVERITY: Login at hour 20 differs from typical hour 10.4 by 9.583333333333334 hours
+2026-01-23 14:45:16,453 - INFO - Alert triggered: MEDIUM SEVERITY: Login at hour 22 differs from typical hour 10.4 by 11.583333333333334 hours
+2026-01-23 14:45:16,454 - INFO - Alert triggered: MEDIUM SEVERITY: Login at hour 2 differs from typical hour 10.4 by 8.416666666666666 hours
+2026-01-23 14:45:16,455 - INFO - Alert triggered: MEDIUM SEVERITY: Login at hour 2 differs from typical hour 10.4 by 8.416666666666666 hours
+2026-01-23 14:45:16,457 - INFO - Alert triggered: MEDIUM SEVERITY: Login at hour 4 differs from typical hour 10.4 by 6.416666666666666 hours
+2026-01-23 14:45:16,458 - INFO - Alert triggered: MEDIUM SEVERITY: Login at hour 18 differs from typical hour 10.4 by 7.583333333333334 hours
+2026-01-23 14:45:16,459 - INFO - Alert triggered: MEDIUM SEVERITY: Login at hour 2 differs from typical hour 10.4 by 8.416666666666666 hours
+2026-01-23 14:45:16,460 - INFO - Alert triggered: MEDIUM SEVERITY: Login at hour 18 differs from typical hour 10.4 by 7.583333333333334 hours
+2026-01-23 14:45:16,461 - INFO - Alert triggered: MEDIUM SEVERITY: Login at hour 2 differs from typical hour 10.4 by 8.416666666666666 hours
+2026-01-23 14:45:16,462 - INFO - Alert triggered: MEDIUM SEVERITY: Login at hour 2 differs from typical hour 10.4 by 8.416666666666666 hours
+2026-01-23 14:45:16,463 - INFO - Alert triggered: MEDIUM SEVERITY: Login at hour 2 differs from typical hour 10.4 by 8.416666666666666 hours
+2026-01-23 14:45:16,464 - INFO - Alert triggered: MEDIUM SEVERITY: Login at hour 16 differs from typical hour 9.8 by 6.25 hours
+2026-01-23 14:45:16,465 - INFO - Alert triggered: MEDIUM SEVERITY: Login at hour 0 differs from typical hour 9.8 by 9.75 hours
+2026-01-23 14:45:16,466 - INFO - Alert triggered: MEDIUM SEVERITY: Login at hour 16 differs from typical hour 9.8 by 6.25 hours
+2026-01-23 14:45:16,467 - INFO - Alert triggered: MEDIUM SEVERITY: Login at hour 22 differs from typical hour 9.8 by 12.25 hours
+2026-01-23 14:45:16,468 - INFO - Alert triggered: MEDIUM SEVERITY: Login at hour 0 differs from typical hour 9.8 by 9.75 hours
+2026-01-23 14:45:16,469 - INFO - Alert triggered: MEDIUM SEVERITY: Login at hour 16 differs from typical hour 9.8 by 6.25 hours
+2026-01-23 14:45:16,470 - INFO - Alert triggered: MEDIUM SEVERITY: Login at hour 18 differs from typical hour 9.8 by 8.25 hours
+2026-01-23 14:45:16,472 - INFO - Alert triggered: MEDIUM SEVERITY: Login at hour 0 differs from typical hour 9.8 by 9.75 hours
+2026-01-23 14:45:16,473 - INFO - Alert triggered: MEDIUM SEVERITY: Login at hour 18 differs from typical hour 9.8 by 8.25 hours
+2026-01-23 14:45:16,474 - INFO - Alert triggered: MEDIUM SEVERITY: Login at hour 22 differs from typical hour 9.8 by 12.25 hours
+2026-01-23 14:45:16,475 - INFO - Alert triggered: MEDIUM SEVERITY: Login at hour 0 differs from typical hour 9.8 by 9.75 hours
+2026-01-23 14:45:16,476 - INFO - Alert triggered: HIGH SEVERITY: Login from unusual IP 192.168.1.11 for user charlie
+2026-01-23 14:45:16,477 - INFO - Alert triggered: HIGH SEVERITY: Login from unusual IP 10.0.0.5 for user bob
+2026-01-23 14:45:16,478 - INFO - Alert triggered: HIGH SEVERITY: Login from unusual IP 10.0.0.5 for user bob
+2026-01-23 14:45:16,479 - INFO - Alert triggered: HIGH SEVERITY: Login from unusual IP 198.51.100.5 for user diana
+2026-01-23 14:45:16,480 - INFO - Alert triggered: HIGH SEVERITY: Login from unusual IP 192.168.1.11 for user diana
+2026-01-23 14:45:16,481 - INFO - Alert triggered: HIGH SEVERITY: Login from unusual IP 192.168.1.11 for user diana
+2026-01-23 14:45:16,482 - INFO - Alert triggered: LOW SEVERITY: ML model detected anomaly with score -0.000
+2026-01-23 14:45:16,484 - INFO - Alert triggered: LOW SEVERITY: ML model detected anomaly with score -0.038
+2026-01-23 14:45:28,997 - INFO - Alert triggered: MEDIUM SEVERITY: Login at hour 10 differs from typical hour 16.5 by 6.5 hours
+2026-01-23 14:45:29,000 - INFO - Alert triggered: MEDIUM SEVERITY: Login at hour 23 differs from typical hour 16.5 by 6.5 hours
+2026-01-23 14:45:29,002 - INFO - Alert triggered: LOW SEVERITY: ML model detected anomaly with score -0.007
+2026-01-23 14:45:29,003 - INFO - Alert triggered: LOW SEVERITY: ML model detected anomaly with score -0.002

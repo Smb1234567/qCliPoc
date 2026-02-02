@@ -1,0 +1,15 @@
+Jan 15 10:30:15 server1 sshd[1234]: Failed password for invalid user hacker from 192.168.1.100 port 12345 ssh2
+Jan 15 10:31:22 server1 sshd[1235]: Accepted password for admin from 10.0.0.50 port 54321 ssh2
+Jan 15 10:45:30 server1 sshd[1236]: Received disconnect from 10.0.0.50: 11: disconnected by user
+Jan 15 11:20:10 server1 sshd[1237]: Accepted password for alice from 192.168.1.10 port 45678 ssh2
+Jan 15 11:45:15 server1 sshd[1238]: Accepted password for bob from 192.168.1.11 port 34567 ssh2
+Jan 15 12:30:20 server1 sshd[1239]: Failed password for user charlie from 10.0.0.5 port 23456 ssh2
+Jan 15 13:15:25 server1 sshd[1240]: Accepted password for diana from 10.0.0.6 port 12345 ssh2
+Jan 15 14:00:30 server1 sshd[1241]: Failed password for user eve from 203.0.113.10 port 98765 ssh2
+Jan 15 14:30:35 server1 sshd[1242]: Accepted password for frank from 198.51.100.5 port 87654 ssh2
+Jan 15 15:00:40 server1 sshd[1243]: Received disconnect from 192.168.1.10: 11: disconnected by user
+Jan 15 16:00:45 server1 sshd[1244]: Multiple failed logins for user alice from 192.168.1.100 - account locked
+Jan 15 23:30:50 server1 sshd[1245]: Accepted password for admin from 10.0.0.50 port 54322 ssh2
+Jan 16 02:15:55 server1 sshd[1246]: Accepted password for bob from 10.0.0.100 port 43210 ssh2
+Jan 16 03:00:00 server1 sshd[1247]: Failed password for invalid user test from 192.168.1.200 port 11111 ssh2
+Jan 16 09:00:05 server1 sshd[1248]: Accepted password for alice from 192.168.1.10 port 22222 ssh2

@@ -1,0 +1,13 @@
+{
+  "name": "auth-anomaly-detection",
+  "version": "1.0.0",
+  "description": "AI-based anomaly detection for authentication logs",
+  "main": "app.py",
+  "scripts": {
+    "start": "python app.py",
+    "test": "python -m pytest tests/"
+  },
+  "keywords": ["anomaly-detection", "authentication", "ai", "ml"],
+  "author": "AI Anomaly Detection System",
+  "license": "MIT"
+}

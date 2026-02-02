@@ -1,0 +1,23 @@
+{
+  "email_settings": {
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "sender_email": "",
+    "sender_password": "",
+    "recipient_emails": []
+  },
+  "alert_thresholds": {
+    "high_severity_count": 3,
+    "medium_severity_count": 5,
+    "time_window_minutes": 60
+  },
+  "notification_channels": [
+    "email",
+    "log"
+  ],
+  "alert_templates": {
+    "high_severity": "HIGH SEVERITY ALERT: Suspicious activity detected for user {username}",
+    "medium_severity": "MEDIUM SEVERITY: Unusual activity detected for user {username}",
+    "low_severity": "LOW SEVERITY: Minor anomaly detected for user {username}"
+  }
+}
